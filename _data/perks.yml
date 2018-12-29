@@ -19,9 +19,9 @@
   products: ["Any"]
 
 - company: "JetBrains"
-  uri: "http://www.jetbrains.com/devnet/sponsorship/mvps/"
-  description: "We provide Microsoft Most Valuable Professionals with .NET tools and WebStorm licenses."
-  products: ["ReSharper", "dotTrace", "dotMemory", "dotCover", "WebStorm"]
+  uri: "https://www.jetbrains.com/community/support/#section=dev-recognition"
+  description: "We provide Microsoft Most Valuable Professionals with an All Products Pack, including licenses for .NET tools such as ReSharper and Rider, WebStorm, DataGrip and many more."
+  products: ["All Products Pack", "ReSharper", "Rider", "dotTrace", "dotMemory", "dotCover", "WebStorm", "ReSharper C++", "..."]
 
 - company: "MyGet"
   uri: "https://www.myget.org/mvp"
@@ -118,10 +118,10 @@
   description: "The revolutionary debugging extension, which complements Visual Studio and supercharges the C# debugging experience."
   products: ["OzCode"]
   
-- company: "Acceleratio"
-  uri: "https://www.spdockit.com"
-  description: "We provide you with a free subscription for SPDocKit – Consultant Subscription - Ultimate Edition. This subscription covers unlimited farms for a period of one year. Write a email to support@acceleratio.net with a link to the MVP Profile."
-  products: ["SPDocKit"]
+- company: "SysKit"
+  uri: "https://www.syskit.com"
+  description: "We provide you with a free subscription for our tools SPDocKit, SysKit Monitor, SysKit Insights, SysKit Security Manager, SysKit Shell. Send us an email to support@syskit.com with a link to the MVP Profile."
+  products: ["Any"]
   
 - company: "Digicert"
   uri: "https://www.digicert.com/friends/mvp.php"
@@ -167,3 +167,53 @@
   uri: "https://www.devart.com/highfive.html"
   description: "If you have any kind of MVP award (Microsoft MVP, Oracle ACE, Embarcadero MVP, ALM rangers, Salesforce MVP etc.) send us a link to your MVP profile, and get a free license. We also ask our MVP customers to write short reviews of advantages and disadvantages of our products."
   products: ["Any"] 
+
+- company: "Liquid Technologies"
+  uri: "https://www.liquid-technologies.com/request-mvp-key"
+  description: "We are pleased to provide Microsoft MVP’s with a Free license to our entire Liquid Software Suite, this includes Graphical XSD, JSON Schema, WSDL & XML editors, a graphical Data Mapper, XML Data Binding, Visual Studio Integration, Web Service tools and much more."
+  products: ["Any"] 
+
+- company: "Codealike"
+  uri: "https://codealike.com"
+  description: "Sign up to Codealike. Then e-mail or send us a tweet just saying what your Codealike username and MVP profile page is. Codealike Premium will be free to MVPs forever."
+  products: ["Codealike Premium"] 
+  
+- company: "PostSharp"
+  uri: "https://www.postsharp.net/purchase/request-free"
+  description: "We offer free PostSharp licenses to Microsoft MVPs, influential bloggers, authors, user group leaders and qualified freelancers."
+  products: ["PostSharp"] 
+
+- company: "ApexSQL"
+  uri: "https://blog.apexsql.com/apexsql-to-microsoft-mvps-and-vips-your-money-is-no-good-here/"
+  description: "Any Microsoft SQL or SharePoint MVP – 1 free license of ApexSQL Universal. Any other Microsoft MVP (e.g. C#, VB.NET, etc) – 1 free license of ApexSQL Developer. Any SQL MCT – 1 free license of ApexSQL Universal (please provide MCT number). Any SQL Server VIP – blogger, community evangelist, technical authority, etc. – 1 free license of ApexSQL Universal"
+  products: ["ApexSQL Universal", "ApexSQL Developer"]
+
+- company: "Axialis"
+  uri: "http://www.axialis.com/mvp/"
+  description: "At Axialis we welcome Microsoft MVPs and Regional Directors by offering Free NFR licenses of all our products. Our goal is to help you with your work and receive feedback from you to enhance our products."
+  products: ["IconWorkshop", "CursorWorkshop", "IconGenerator", "All Bitmap Icon Sets", "All Vector Icon Sets"]
+
+- company: "Devolutions"
+  uri: "https://devolutions.net/offer/nfr"
+  description: "Devolutions offers free NFR (Not for Resale) licenses to Microsoft MVP, Citrix CTP and VMware vExpert for personal use and demo purposes."
+  products: ["Enterprise License for Remote Desktop Manager"]
+  
+- company: "RevDeBug"
+  uri: "https://academy.revdebug.com/"
+  description: "RevDeBug offers a free license, training and support, visual materials, development roadmap, and the ability to vote and raise issues for MVPs."
+  products: ["RevDeBug License"]
+    
+- company: "Windy Range Software"
+  uri: "https://www.querystorm.com/"
+  description: "QueryStorm brings SQL and C# into Excel. It enables querying Excel tables with SQL/LINQ and allows rapid prototyping with C#/Excel. Microsoft MVP's get a free perpetual license that can be used on up to three machines. Fill out the form at https://www.querystorm.com/mvp.html and claim your license."
+  products: ["QueryStorm Unlimited License"]
+
+- company: "Tower"
+  uri: "https://www.git-tower.com/support/contact"
+  description: "We offer free NFR licenses to Microsoft MVPs for 'Tower', our Git desktop client for Windows and Mac. MVPs can simply and informally get in touch with our support to claim their license."
+  products: ["Tower"]
+  
+- company: "GitPitch"
+  uri: "https://gitpitch.com/docs/promotions/microsoft-mvp/"
+  description: "GitPitch is a Markdown Presentation Service for everyone on GitHub, GitLab, and Bitbucket. Leverage the tools you already know and love ~ Markdown + Git. Build beautiful presentations with ease with the GitPitch Pro Edition for Desktop."
+  products: ["GitPitch Pro License"]
